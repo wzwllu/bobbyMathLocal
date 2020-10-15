@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="jacob-1">
+    <CLASSES>
+      <root url="file://F:/jacob-1.20" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://F:/jacob-1.20/docs/api" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://F:/jacob-1.20" />
+    </NATIVE>
+    <SOURCES />
+    <jarDirectory url="file://F:/jacob-1.20" recursive="false" />
+  </library>
+</component>
